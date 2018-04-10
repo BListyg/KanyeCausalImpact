@@ -1,3 +1,5 @@
+# An Empirical Analysis of the Kanye West Conjecture
+
 * In September 2009, Taylor Swift recieved a MTV VMA for her music video "You Belong with Me".
 
 * In the middle of giving her acceptance speech, Kanye West got up on the stage and interrupted her to exclaim that Beyoncé had ["one of the best videos of all time!"](https://www.youtube.com/watch?v=1z8gCZ7zpsQ)
